@@ -1,2 +1,2 @@
-# Lokta_Voltera
-Population modeling utilizing Lokta-Voltera and modified Lokta-Voltera equations
+# Lotka_Volterra
+Population modeling utilizing Lotka-Volterra and modified Lotka-Volterra equations
